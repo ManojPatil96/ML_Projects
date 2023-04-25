@@ -2,4 +2,4 @@
 
 # ML_UnSupervised Task2 using irish dataset
 
-# App Prediction python project using google play store data
+# App Rating Prediction python project using google play store data
